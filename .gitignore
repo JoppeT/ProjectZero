@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # Temporary stuff
 Content/Assets_Temp/*
+*.sln
