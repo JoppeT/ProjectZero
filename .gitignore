@@ -75,4 +75,8 @@ DerivedDataCache/*
 
 # Temporary stuff
 Content/Assets_Temp/*
-*.sln
+Source/FBX/*
+Source/SKMannequin_A_Pose/*
+Source/SKMannequin_T_Pose/*
+Source/Motionbuilder/*
+Source/Maya/*
