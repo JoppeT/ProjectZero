@@ -82,3 +82,5 @@ Source/Motionbuilder/*
 Source/Maya/*
 *.sln
 *.fbx
+*.wav
+*.png
