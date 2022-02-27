@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{F56DB3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{0BD20DA7-2A35-40F5-AEFE-72335272BEF9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{1FE0243A-266A-4913-AD04-F05B28A00AF4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{7867308C-2E9B-4D13-B38A-1639D507C8F7}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NepalVillage", "Intermediate\ProjectFiles\NepalVillage.vcxproj", "{FB5CF9DE-185A-4C21-AB3A-939971A6D966}"
 EndProject
@@ -30,16 +30,16 @@ Global
 		Shipping|Win64 = Shipping|Win64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.DebugGame Editor|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.DebugGame Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.DebugGame|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.DebugGame|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.Development Editor|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.Development Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.Development|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.Development|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.Shipping|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4}.Shipping|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.DebugGame Editor|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.DebugGame Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.DebugGame|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.DebugGame|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.Development Editor|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.Development Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.Development|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.Development|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.Shipping|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7}.Shipping|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
 		{FB5CF9DE-185A-4C21-AB3A-939971A6D966}.DebugGame Editor|Win32.ActiveCfg = Invalid|Win32
 		{FB5CF9DE-185A-4C21-AB3A-939971A6D966}.DebugGame Editor|Win64.ActiveCfg = DebugGame_Editor|x64
 		{FB5CF9DE-185A-4C21-AB3A-939971A6D966}.DebugGame Editor|Win64.Build.0 = DebugGame_Editor|x64
@@ -63,7 +63,10 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{1FE0243A-266A-4913-AD04-F05B28A00AF4} = {F56DB38C-8452-43A1-A625-39032872EBC2}
+		{7867308C-2E9B-4D13-B38A-1639D507C8F7} = {F56DB38C-8452-43A1-A625-39032872EBC2}
 		{FB5CF9DE-185A-4C21-AB3A-939971A6D966} = {0BD20DA7-2A35-40F5-AEFE-72335272BEF9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE7DA733-44B4-477A-A26D-9E79FBFF433E}
 	EndGlobalSection
 EndGlobal
